@@ -1,0 +1,25 @@
+:host {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  // background: linear-gradient(45deg, #6200ea, #b2ff59);
+}
+
+.login-container {
+  width: 350px;
+  padding: 40px 30px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.inputStyle {
+  width: 96%;
+  height: 40px;
+  margin-bottom: 25px;
+}
+
+button {
+  width: 100%;
+}
